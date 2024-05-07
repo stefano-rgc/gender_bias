@@ -1,0 +1,17 @@
+name: s2ds
+channels:
+  - defaults
+dependencies:
+  - seaborn
+  - transformers
+  - tensorflow=2
+  - numpy
+  - python=3.10
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - torchvision
+  - pytorch
+  - datasets
+  - scikit-learn
+prefix: /Users/stefano/opt/anaconda3/envs/s2ds
